@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'github',
 			icon: 'github',
-			link: 'book-open',
+			link: 'https://github.com/',
 		},
 		{
 			id: '3',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'kotlin',
-			icon: 'code-2',
-			link: 'https://reddit.com',
+			name: 'unity learn',
+			icon: 'gamepad',
+			link: 'https://learn.unity.com/',
 		},
 		{
 			id: '6',
 			name: 'google translate',
 			icon: 'languages',
-			link: 'https://odysee.com/',
+			link: 'https://translate.google.com/',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'briefcase',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'simbirsoft jira',
+					link: 'https://jira.simbirsoft.com/secure/RapidBoard.jspa?projectKey=SPORT&rapidView=619',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'knowledge base',
+					link: 'https://kb.simbirsoft.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 's3n',
+					link: 'https://s3n.simbirsoft.com/feed',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'simbirsoft gitlab',
+					link: 'https://www.gitlab.simbirsoft/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'bike',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'sportmaster email',
+					link: 'https://mail.sportmaster.ru/owa/?bO=1#path=/mail',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'sportmaster jira',
+					link: 'https://jira.app.local/secure/RapidBoard.jspa?rapidView=27856',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'testops email',
+					link: 'http://al-srv01.gksm.local:8080/project/9/dashboards',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'testops survey',
+					link: 'http://al-srv01.gksm.local:8080/project/38/dashboards',
 				},
 			],
 		},
